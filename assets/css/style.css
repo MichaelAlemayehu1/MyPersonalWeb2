@@ -3,14 +3,45 @@
   border-left: 6px solid green;
   height: 200px;
 } */
-
-#rightside{
-  border-left: dotted #bbb;
+body{
+  background-color: #eee;
 }
+#nav{
+  background-color: #2d2654;
+}
+#spacers{
+  background-color: #2d2654;
+}
+
+#navholder{
+  background-color: #2d2654;
+}
+
+#main{
+  max-width: 70%;
+  border: solid 1px #ccc;
+}
+hr{
+  border-top: dotted #ccc;
+}
+#rightside{
+  border-left: dotted #ccc;
+}
+#footer{
+  
+  max-width: 70%;
+  
+  
+ 
+}
+
 #footer a{
   text-decoration: none;
-  color: #2d2654;
+  color: black;
   font-weight: bold;
 
 }
+
+
+
 
