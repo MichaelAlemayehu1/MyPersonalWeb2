@@ -4,11 +4,22 @@
   height: 200px;
 } */
 body{
+  background-color: #ddd
+  
+}
+
+#main{
   background-color: #eee;
 }
 #nav{
   background-color: #2d2654;
   }
+.nav-item{
+  font-family: 'Roboto', sans-serif;
+  
+  
+}
+
 
 #spacers{
   background-color: #2d2654;
@@ -42,7 +53,66 @@ hr{
   font-weight: bold;
 
 }
- 
+ /* @media screen and (min-width:574px) and (max-width:824px){
+   .tweets{
+     width:50%;
+   }
+ } */
+
+ /* .twitter-timeline {
+  margin: 2rem 0 0 0;
+  border-top: 2px dotted #ccc;
+}
+.twitter-widget{
+  height: auto;
+  border: solid 1px #ccc;
+  border-radius: 5px;
+}
+#tweets {
+  margin: 0 0 2rem 1rem;
+  font-size: 12px;
+  margin-left: 0;
+} */
+#inLinks{
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+.git{
+  text-decoration: none; color: #000;
+}
+.reddit{
+  text-decoration: none; color: #000;
+}
+.twitter{
+  text-decoration: none; color: #000;
+}
+
+
+.card{
+  width: 100%;
+  
+
+}
+
+.card-title{
+  text-align: center;
+  
+}
+.list-group-item{
+text-align: center;
+}
+#info{
+  text-decoration: none; color: black;
+  font-weight: bold;
+  
+}
+
+
+.card-footer{
+  text-align: right;
+}
+
 
 
 
