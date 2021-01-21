@@ -30,7 +30,7 @@ body{
 }
 
 #main{
-  max-width: 70%;
+  max-width: 65rem;
   border: solid 1px #ccc;
 }
 hr{
@@ -53,15 +53,11 @@ hr{
   font-weight: bold;
 
 }
- /* @media screen and (min-width:574px) and (max-width:824px){
-   .tweets{
-     width:50%;
-   }
- } */
-
- /* .twitter-timeline {
+ 
+ 
+ .twitter-timeline {
   margin: 2rem 0 0 0;
-  border-top: 2px dotted #ccc;
+  
 }
 .twitter-widget{
   height: auto;
@@ -72,7 +68,8 @@ hr{
   margin: 0 0 2rem 1rem;
   font-size: 12px;
   margin-left: 0;
-} */
+} 
+
 #inLinks{
   text-decoration: none;
   color: #000;
