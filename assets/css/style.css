@@ -4,15 +4,19 @@
   height: 200px;
 } */
 body{
-  background-color: #ddd
+  background-color: #ddd;
+  
   
 }
 
 #main{
   background-color: #eee;
+  padding: 0px;
 }
 #nav{
   background-color: #2d2654;
+  
+  
   }
 .nav-item{
   font-family: 'Roboto', sans-serif;
@@ -20,13 +24,16 @@ body{
   
 }
 
-
-#spacers{
-  background-color: #2d2654;
+.active{
+  color:white !important;
 }
+
+
+
 
 #navholder{
   background-color: #2d2654;
+  
 }
 
 #main{
@@ -41,7 +48,7 @@ hr{
 }
 #footer{
   
-  max-width: 70%;
+  max-width: 65rem;
   
   
  
